@@ -36,5 +36,3 @@ It reads **sector 2** of the boot disk (the first sector after the boot sector),
 * Load and execute an ELF kernel.
 
 ---
-
-Do you want me to also make a **short section about limitations** (like BIOS-only, 512 bytes max, CHS vs LBA), or keep it very minimal?
